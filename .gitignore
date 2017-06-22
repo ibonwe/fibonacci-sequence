@@ -1,0 +1,8 @@
+# build and lib
+build
+
+# executables
+bin/*
+
+# OS
+.DS_Store
